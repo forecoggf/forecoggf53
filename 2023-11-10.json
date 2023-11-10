@@ -1,0 +1,26 @@
+{
+  "name": "Jane Kennedy",
+  "age": 39,
+  "address": {
+    "street": "Olsuh Heights",
+    "city": "Wulfite",
+    "state": "IL",
+    "zip": "52641"
+  },
+  "contact": {
+    "phone": "(665) 575-6321",
+    "servicePhone": "800221321"
+  },
+  "birthday": "1999-04-20T02:59:40.611Z",
+  "ip": "127.134.97.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ippupot aptis jehbizom ji mir tiv puz vi nun sofpaob uw vanima jeil. Feciba esikiskur ilhif jieziir mi hivsesas mowef eclur pinicsi rojfeg uce wi ed fugo umuce. Uv po pe cez sod lomara cuwun socejhi ma im ilten ralvucen bevan wekopeg. Fezlurar ifa ser si ko mo jevkew muk duboroaku ziaz lul lannil detah. Diovba fim famarewaz lakil dimjumuc hefra wita me oc migiha ipsel boer et. Jamgodpic nad toohute amimi debote cogwunra ewaok meju pideefo pani roz ub lut. Egkevet biw fed wupas dil lodkir raubnob simfukem russajig bapehir pulcoha mefuromi bihku co tu od.",
+    "bio": "Lemnof anlajac fairiocu zin nuw be ni tikihes om colujgo kuggoru le jangibar suzfefde saklewe enanela haup. Dijjez mit ba lormucap so or ib fumdodfut bozegi itooc ke vejrem. Nu di zunoluf kivsumked tasutzig sihigike defocwo rare amlun oraahet lebjeri rozzu lotnot me datida ziwodi hamaj."
+  },
+  "apiKey": "7bd11fb02e29a6c1c7d495c489a108f1ace3bd4bb8e2303f7eeafff73ec6d66f",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
