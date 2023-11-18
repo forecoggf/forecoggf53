@@ -1,0 +1,26 @@
+{
+  "name": "Jack Watts",
+  "age": 57,
+  "address": {
+    "street": "Vozose Street",
+    "city": "Judtirlo",
+    "state": "NV",
+    "zip": "10072"
+  },
+  "contact": {
+    "phone": "(345) 246-8098",
+    "servicePhone": "800991488"
+  },
+  "birthday": "1965-05-02T13:55:23.334Z",
+  "ip": "130.4.242.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho cig alu zuchani vakte nasovda ti mugfog saf fukiwfi bavka ju fofi cul ofva oceraf buzwi zapuk. Jefi hal gebkid nevgovi javewjin ma wonja izihoduz cepeema ki lub es kikdov kepwino car. Humojo pemvipgod tif rohusgi vilik jeh bo vetutoso ag du cahot niz ejuwe puihi.",
+    "bio": "Vapvewa kikor wuiwean zujkevmo wul fi lemij evmuhwu luodine cawwe ci ticmajroc zuhne owjuha va zurpem zekiri. Puhve nah jifi mucassa faiz zocrurku widceple iwhovas un facomewi to faf mah bo nujvulej lifvabper po dinusu. Ji rarulguh luupe du bir kijimcoz ji esepi waka ke ateh nuhbe leidu upiajosow."
+  },
+  "apiKey": "764b46d5585462d407c3509689a1f0789854367fdef0ec7042de94faedb68a0c",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
