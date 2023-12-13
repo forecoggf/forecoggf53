@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Sanders",
+  "age": 24,
+  "address": {
+    "street": "Jaddiw Court",
+    "city": "Kimawseh",
+    "state": "MO",
+    "zip": "43269"
+  },
+  "contact": {
+    "phone": "(882) 624-6365",
+    "servicePhone": "800231242"
+  },
+  "birthday": "2001-02-01T12:25:20.176Z",
+  "ip": "186.172.157.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Vo haztoke dehtezu rivakigi duparacu lag pi uf waacbej pocum apnosla vev sawiw kere biwom daminav. Ci iwijojhu ucture dajron uhazijbac me heszal dosubeh bapej bezcage zi kigtoflij uwweke. Guli um okhu murvonle cewul cef izsugal zuscafa ako okogi itag egsa su dupadtew wemsozdu.",
+    "bio": "Awi iw vueko zoupa ocgud cehso eno kan fiksapca anbe vuv sahukin poedlo. Kifkad rezsi ra oj va umegisu povadulih rogve ned wufojeja rege gogujik. Bor jowjindul piv so vikvek zoh ho ben wiikiso awi pazapedu jowwef depej tulzih ecifab udaaferi otpa fetbowi."
+  },
+  "apiKey": "5d64341d05d02394fd7e6258fd5cbed8840d9dfe84f921f3df13b95be5072580",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
