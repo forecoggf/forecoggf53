@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Fowler",
+  "age": 22,
+  "address": {
+    "street": "Jojler Court",
+    "city": "Pustiti",
+    "state": "MO",
+    "zip": "07161"
+  },
+  "contact": {
+    "phone": "(284) 668-1472",
+    "servicePhone": "800557773"
+  },
+  "birthday": "1998-02-05T16:40:51.106Z",
+  "ip": "118.80.240.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ule sov gohev civep lep ludu zewebpiw illufaj tibal pagumel reuh sib juicud fidaldo zugwo uha. Mosnan fodsuca dosjuit sa etewo nigwop poteh idu tojid nuwwuctel vogup duhhot ezu ilzegi decfub ful. Mojlewur ag rum mo sufani ke loznaf tasraaga to hocge anrep emiihipu zufkom ene mozuj putsuges an zo. Nane heknu sova ke gef tezok riih usoitlug zi ubugucol sarah wefwer fo ohavid. Wogfe sendanpu saj ici ihe ruku paddelol vi por wohsimoh ozo ugejdo. Woese tiv wu lozo ku enni akmuv lagozo dufvov becu vor ijebuzli tar toj mibusup an ah.",
+    "bio": "Ge dufvik we zoleclis rah cuf arepihtel patem biluv bupfooc vijeho lipgo pu du vusipipel zurzebit wu dawsan. Erufegod la rulot su oza ev leomuaju ge devog soblat pal uh doamajum po akuk. Di rusu pejlusuk catci uvofu akudebe guipafi medhucig cukijog jahaf nufuvaz veusuk bu tasu jebome isi."
+  },
+  "apiKey": "f63711a703de5d52826eaef616861dfbec30e573b7376e9d554c486e7237e9d9",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
