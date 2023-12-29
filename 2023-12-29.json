@@ -1,0 +1,26 @@
+{
+  "name": "Scott Gordon",
+  "age": 37,
+  "address": {
+    "street": "Lowa Parkway",
+    "city": "Zasovim",
+    "state": "DC",
+    "zip": "86424"
+  },
+  "contact": {
+    "phone": "(945) 746-1806",
+    "servicePhone": "800564944"
+  },
+  "birthday": "1994-05-24T07:54:30.595Z",
+  "ip": "228.2.4.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Muc duk samo mo nikavlo sunjazzur tap ihalura gujeh esowuhpet kububepun vuvucer sadaka tonos eli lu daikba teh. Fi ikebifir rus gapozul dadbe nal igisaje dov doz lumla kimfim pomek cij hejus cullano pigso. Zaluwewu dijnes nabmu him lupewso ta co kuv lij juzle bukkuk jindelak loppiofu rekijet sawjur osu avhuofe mipumup.",
+    "bio": "Doc giwwake ru oru hosasbi biweku hitbe inip ali devlaloc zu zevbac cut jipu. Ir pev ucepi bas fomo huuw ridapavu anke ferko dozucrug purbakna tig we uf. Vo so iw lan udsetcid rajik ofrume egveg obec tatepod ver wurohkal be his. Gaweusu belnuew demcujmu hudawiha izbenof rezeror bi tuvfinvef cuw bu porisnor ankopla. Lep dojosef va mawehe ko vil japlofig mibosoone foacala ihoz luvrezbu otbi koziza fijwi ruho vezva. Vieh mina ta gaj nogaro vohiip elpem laduk jamjijwi bofijata zusic kiwoggu. Jaw sisup kanim kuflu tofefceh rosluoda tip zef vele ko wem tepivuc."
+  },
+  "apiKey": "484d9e18f1fb05dc101da524d7d258bada9984c3154b9cac34afcbe8c6aaf37e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
