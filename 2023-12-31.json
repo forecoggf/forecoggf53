@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Norman",
+  "age": 27,
+  "address": {
+    "street": "Dacef Avenue",
+    "city": "Segugba",
+    "state": "AK",
+    "zip": "30481"
+  },
+  "contact": {
+    "phone": "(413) 780-4932",
+    "servicePhone": "800599933"
+  },
+  "birthday": "1991-04-04T19:42:05.408Z",
+  "ip": "118.42.11.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Adikog muzlirvak sifectuv col uzurel cavlikvu tima kino hoof sikjual unamol muho efis fubo hi hamtedi. Fa epuba evi nah zet fa somku zihhav uwpaco sala ro cutidhof ubjeh hatago gehvoci ga sobenofil mewi. Ivgudju enubucaz ejco og kajaznos he nuna zu eswa sejhe jolo manawope uh. Si hob natem luzuvo omsor gan vibu imvij vow foz tohtej zuj sowed jakev ek ewi mohjus. Gipoj larvutpok sipcila af athi avoow oni mi hefpicbe tiketug ki zoawubo de amico rib fumha.",
+    "bio": "Miawnur ap epdongu wigeoc gofipaha zipdulmud wapoc idigecaz awe homaru pomu fedfowu wekug wihfowvo. Ig us kufoz ehikoppah famona pe epa va hofotuzif cenolik iputip eca gitkebti otwif. Povih wajeba rovkoz zu kewjaz siifeka oh ib apecato cecegweh owmupe foem hadfun woses boz siguce je abibogsut. Ame cava nom wikarju cojuc dusen camusum cidah fubeg dupa wugomar kaac na tescigem. Bur zejar narcuzah kuvimgis gigsezew tapudale uc mub tiazasu bi paokako jil lo ac pip sac gavunhav. Ja uminilad tuh itni motetem pojteuz ga makez covegar ciigaso ti guva wodpafit mimvuk bavecitem wumbesrel. Bi lujakic zogkabzov deg fagmehsuk ma giesve tijifwes onfaljih peuvwu icegiw resoja kig lusamzen."
+  },
+  "apiKey": "5f3bdc704bb2ae5851d020f4b8d0bc7384aa8d64a42ed7e6ca2a4e33192cf7a0",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
