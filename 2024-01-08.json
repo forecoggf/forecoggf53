@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Cannon",
+  "age": 48,
+  "address": {
+    "street": "Bemune Square",
+    "city": "Kuksalmi",
+    "state": "SC",
+    "zip": "57733"
+  },
+  "contact": {
+    "phone": "(749) 467-1197",
+    "servicePhone": "800384271"
+  },
+  "birthday": "1982-01-21T16:06:12.858Z",
+  "ip": "108.63.87.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ontusab tut zapzab bopodol koc azinoze hu teszipag ovisocho doaheogo dema noplu demfi ajcece. Gaz sospucu palu tesredgiw zimdu fokot urpit zuivlez diz abuvup uzwagut numcumra onlod. Huwiro zavek tis to jifhis dekmufu uwava as jejcof wamfavwu hobjid muh dur. Hus gubuffeb umegofop fu ul notcifwol mif arpieva rop tuajlal kogroret umapam lirajba juk jircotag paupo we.",
+    "bio": "Vu tovub golalu fewfidfan puzcot zol redmipfe kompo hahpovto ajaap ce bag ejfivig je nedoaz go ido. Enite vo ji cuzapav uso moh lartitof gois masvo ecifibav dul po ovozilev abco. Umo rarobe lutijodes upa ju giterbe jaguk emep wahhassov somif foov tuc."
+  },
+  "apiKey": "267a6db5be0b301a165ec657a07b9ba25afc86f8d5128aff0cb240aea5a21b9b",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
