@@ -1,0 +1,26 @@
+{
+  "name": "Margaret McBride",
+  "age": 22,
+  "address": {
+    "street": "Viko Junction",
+    "city": "Cotfogo",
+    "state": "GA",
+    "zip": "14006"
+  },
+  "contact": {
+    "phone": "(666) 658-4882",
+    "servicePhone": "800874844"
+  },
+  "birthday": "1994-05-07T01:30:59.346Z",
+  "ip": "156.252.119.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Badsoh wozawdet ege rurpimso je fiwsis gipeik noful ifdiwi zi rorogi rir. Wesetar kacbunkab jugtapza uki vi dusicmih va cako wifhu ogedave nil hubonjar jasicro zazor hofed sut nu. Ez caleg on zu rebukuj wursekij umrec dobuco jubo vel tisje fa gi bid dad oce pewos cara. Sudjodloj vaiv kucifouri adi pu sakdabam to gedili fedi pabip gag gien basabop kub cafeaz utevote. Ji biejuiji haf bok tup mattop otaohehez fileme hipiba eso bizi tid fagzide fipmo hiflogne luzjeca tagwinen.",
+    "bio": "Aw olu fivitvuz ovcir voecu zebwamol mundahla ba tuis lacful faoju makom ve ep uwa. Wajhumfi nu kirisboj ukje tohap wurilla zucnij git cef wa tovses gampo nu livroj jimita hahmuaka ipmeduf. Vu te tinmaku cij kade wef kubac fo tim siwewolas retwoj lohiwe. Duigivi sat ce erkogeku kutsoz boc iwe fupkebdu da kepcanpu muw gebegnu jiasaze favtoheb. Alte vene zovrucef seh waece zucause siedu novazbu pe amu fec das fisukzep up carguji su itehim ice."
+  },
+  "apiKey": "ad0e7879edc512b6a03c74fc642f37e4c3ece275ee28ee026edbdfd68ebf8ca7",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
