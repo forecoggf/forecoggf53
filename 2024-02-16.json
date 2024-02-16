@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Jacobs",
+  "age": 34,
+  "address": {
+    "street": "Cujeh Mill",
+    "city": "Umtuplu",
+    "state": "NY",
+    "zip": "31853"
+  },
+  "contact": {
+    "phone": "(814) 360-1340",
+    "servicePhone": "800181648"
+  },
+  "birthday": "1969-08-30T07:27:41.766Z",
+  "ip": "217.60.151.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Odi bofzidik cat ica papilfat dub cu lo wagiv uzanibava sufpipic gevozo vevallug. Vir wi ovuf nore nal ikigiboz ben mezlacseh tonateco naufeca ansojsob vukzuto. Soh cu dedikwuj iltufmi agopu utissa fakhospup bu gamesidu teidu fozkuh eve.",
+    "bio": "Gihiviw ohuji calo wefis mossekem lemfogsob huk dupijrac disofe fawap juvovfu vezsa dudere fo loehipid. Tofucab ogo pef enapiuhe duvotuse zesfirih savricat cepka dov keok beara jumur detiji vuz jurav. Tokihu fecumru jiek pa mevup hi mev ep goga odojag sijce azepemiw okufizcu vejki wosam edosetuz."
+  },
+  "apiKey": "5f13ac32ab623f09e842e1d26aba55b290e1ac012466f83894c1b32b6b73d9e7",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
