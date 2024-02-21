@@ -1,0 +1,26 @@
+{
+  "name": "Iva Munoz",
+  "age": 52,
+  "address": {
+    "street": "Gawkak Highway",
+    "city": "Peutbam",
+    "state": "ID",
+    "zip": "99295"
+  },
+  "contact": {
+    "phone": "(471) 880-3932",
+    "servicePhone": "800319187"
+  },
+  "birthday": "1980-08-27T17:14:01.517Z",
+  "ip": "8.149.133.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Poffu dawcin fajhe agazeciz hekid meos nelij tiluejo zoczibu ofoagdeg folpeis ewcesa wican gube uhe izo girjavve ma. Mo tobjenpu le mudnik su fesroh sauma du mi ano tah gerbuhdin vume cumnote ine. Caluzso pernif hojmijupi dusucbij cu oduec pudovgor kenfob vocik maltiwhup je edrujek jute zo tuhuvzur oda. Zem agimufi vobzaeba rutowji kihimeka iziwuvfac lug ikeafu javfir volibpi nu ne zinbit tufi wozsa koj wuhacomof kummur. Mocohas vifa aspicde pidredug ma kiro omla fogsuiwe aslejad kefakoit veroon epa.",
+    "bio": "Gi misenike gufieze suragfih lowo laabidud nozzear vupap tiwizire tu vet efmiuk hohri vocce cinbafim jiwazbe bas. Ri ja kolic rerwonopo ijo ata polabu kom nis pocejate hizuw ku rub vugod. Iwatbi jos nomhej ezumepal nolhele wiwuava uruadup enitivaba lofaktim meg degtoz vudob pe zekbapibe."
+  },
+  "apiKey": "eb9ff0041362ff90c0c8555754154fe49be2d42e4f4c5513d71df76969a2f0b6",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
