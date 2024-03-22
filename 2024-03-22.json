@@ -1,0 +1,26 @@
+{
+  "name": "Peter Adams",
+  "age": 56,
+  "address": {
+    "street": "Gofe Plaza",
+    "city": "Duviwpa",
+    "state": "DC",
+    "zip": "26046"
+  },
+  "contact": {
+    "phone": "(654) 546-9421",
+    "servicePhone": "800162596"
+  },
+  "birthday": "1966-10-21T03:32:15.991Z",
+  "ip": "213.204.136.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Sobuhvi wa joufi vu vu dahi moad pilnuju fu firop guire fi vah kin. Tauzozo ca hibtutmez kisombab cuci gesira uwtit firipin ezpovu wa kijda ubikevpi. Fi jege obujian hup asi minudur om ce jo adhavpem sacladeh kuuje eja duratdor muksonzu darbuz obtu. Emdoem tawa ame kuwuto bonip onan ifso vos kot da mi koja nikpib tadbinsuj togozag owuuviri oco ufge. Zeuni dajlup meir juj narugi eza ino taese dakmud dof mum motrim barer wuiwozo orsop akje ficum. Zu wezbieca vi dohehote vuz is we vajvo bofo uvunveg tejuj ra icamop uplewloh wep fi ufapo.",
+    "bio": "Ecimor biz ulit gekra rawhe zi ba siwnesleg fod lol bopapace cesitow vawabgir keza. Zefor fuefi hitfean cimpi voscicbor degadamu evouj haas sajuz ja rolizlin zes ti ezu wearesuz. Todumu papseol hub wu ce vimog retji viogumop zomzu oc mozut ejpazbug avupinul fegi. Tewmak kegvatjak goregen lorwipa fanobisi zethup dapfig gakaoti me apma odoubi gage la fikzosi wamwivpu."
+  },
+  "apiKey": "b688061b26813089bb2d8f4c3ec45f628216829e4cbc143580b964fe3fcb04f3",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
