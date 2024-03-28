@@ -1,0 +1,26 @@
+{
+  "name": "Dale Robinson",
+  "age": 25,
+  "address": {
+    "street": "Rowwid Road",
+    "city": "Cogepke",
+    "state": "SD",
+    "zip": "37422"
+  },
+  "contact": {
+    "phone": "(684) 355-4066",
+    "servicePhone": "800825931"
+  },
+  "birthday": "2004-10-09T19:13:14.493Z",
+  "ip": "216.24.179.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Zew hujjeduf boc fahi ehavilzaf lausmig fogticov feokail vipjes ilunijded seup tuwduz. Kulno lelaso gutene rohirho ikohuhu zulipkaj kefi nemulo nowde bim puv im. Ciwza mehufge noazefa ba zirdezpej nu oho bis demitoma far mu ezaahoze befman ziolkap. Hom hukuk jalcu ehguzhig vagumu fib soubdok efafuga mufeju tafagu we lehufeg toloro. Tiagdi pa gul ga ekuz faw jutmar wid catavma kovori fu guhukiso. Kudfu ugoizadu gili zofhak jajol gopo semoipi iziuf jugkapjas nodobum posuvza jigmutwo wi tehsut riosuoli ero fumeco kozifogo.",
+    "bio": "Jofu mugusolok befwe hu fug figic firuz wonaldi rad mene japoro ficu reop agibaelu. Uvuez mecadi fu veznet dohfafba hohul ula rivud om puub jamaupe ra kesar juepezut ajce. Ije seb rid onbih gezmofvac hovehrik amnuvtof wop bom gi lucgovi toifi iros. El asga favwes ce me ure towfinga kajofdem ucbe nehih gudzigus ti bitde juvuluega nuipi bej. Tofof guokiw une pud gocupero ci guglej fer waztomdaz fofin razelo ro gu ko agufora mibomaja huv."
+  },
+  "apiKey": "4d88c292df455bc2ea2d8aaf54a92f9f3d51866987739dbba79479d703d4f1eb",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
