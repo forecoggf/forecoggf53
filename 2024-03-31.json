@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Montgomery",
+  "age": 35,
+  "address": {
+    "street": "Avtoz Glen",
+    "city": "Dirdittet",
+    "state": "CO",
+    "zip": "84480"
+  },
+  "contact": {
+    "phone": "(372) 273-7404",
+    "servicePhone": "800834961"
+  },
+  "birthday": "1977-09-03T18:32:43.916Z",
+  "ip": "200.62.213.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Icipsiz ovujocuru fid lut movit fu tesutu birel fa or se vac waw le zi mufusju. Zeuje homascu tihopegec zena pifteb foh bahpifmel dossi covaje ofa kohur jut tuzgi. Ji jewo bo kicwurkon jer ongosu di wugufve ohu maj ga waro puej ezvoapo sispatod.",
+    "bio": "Kog ubazukguf cevawu ciam sadiv utuocmap tofez eflora iko niwa akemahkef bijsanfi uja kaluwih ipodote. Dagzufad cudniw ben gol dil wubdar momeheda budad afre do saw kolzapu vejulcom vodugafu. Ge nizpip ni zuep vos are eckoja gefocjum viru fapepvo vomjuebi kor tucelo."
+  },
+  "apiKey": "4848c1da2f9e947fc1d3f9aae8f3e4628856549ffd2d9c6d1769646c5a661aaa",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
