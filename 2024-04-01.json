@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Rodriquez",
+  "age": 54,
+  "address": {
+    "street": "Ezuari Highway",
+    "city": "Etesiktip",
+    "state": "PA",
+    "zip": "27960"
+  },
+  "contact": {
+    "phone": "(370) 597-1496",
+    "servicePhone": "800949788"
+  },
+  "birthday": "1964-02-03T21:23:28.647Z",
+  "ip": "212.222.58.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni va moz roh digis hemgun fo huh vegzur ofwi edugopid ri hulunuha huhsaf fobma sumip cor. Sa se zuhis inametzop dikvol avecinac zev guw se jub reijde bidapa. Novoru ow as no hegbonobi ta sodilur ocgaabi zoruv oze helte tu ra nacnazgab bu kasidig joza gejos. Gek ik woh itwab atbomwag linoceb sacup be rope mac zu fa gum ru oredi rikze. Zu job jin heknapem zomiz dodvuf vocod januteh cizfujo uv ac no com cojelwu. Wi binmidma vuboj ribelriz upo dazeuv fanaj dultiv hawco cec fono nijlev lehuh fofe lobkiugo taznueba nuvefmof bolo.",
+    "bio": "Eszebdab cibmik idu tazfemmij jadrorhu jugurmim bujoze udowek efoezuwuh roldiz ujbojma eto redbu nojusa. Wov je jucoli isueh tubda aho remfuf tewelut no hat hekda hamo cu owozsev. Jonel deog huhi kokug rar cutemta je fuvirih imepe efsose do ebwe izepekan tawo bah."
+  },
+  "apiKey": "fa7b0157c311d5f294671eabeadf15cf8d4808d4079d730f779c9f9f6589c320",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
